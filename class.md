@@ -1,5 +1,5 @@
 ## Class Information
-- Name: [Your Name Here]  
+- Name: some name
 - Certification: [Your Certification Name Here]  
 
 ## Instructions
